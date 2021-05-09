@@ -13,9 +13,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Links
 
-[Repo](https://github.com/kelsie51/Employee-Directory)
+[Repo](https://github.com/kelsie51/employee-directory)
 
-[Deployed](https://kelsie51.github.io/Employee-Directory/)
+[Deployed](https://kelsie51.github.io/employee-directory/)
 
 ## Screenshots
 
