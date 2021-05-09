@@ -16,4 +16,4 @@
 ## Screenshots
 
 A page load screenshot:
-![PageLoad](image.jpg)
+![PageLoad](Screenshot.PNG)
